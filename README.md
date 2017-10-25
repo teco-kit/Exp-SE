@@ -8,9 +8,7 @@ Look no further: [Get the Scientific Process for Software Engineers here](https:
 
 The Student Process Improvement Document (SPID)is a process and checklist, mapped on the scientific method, that allows a better planning for scientific work.
 
-<p align="center">
-<img width="70%" src="https://github.com/teco-kit/Exp-SE/raw/master/Documentation/img/mapping_on_scientific_method.png">
-</p>
+<img src="https://github.com/teco-kit/Exp-SE/raw/master/Documentation/img/mapping_on_scientific_method.png">
 
 ## Experiment Planning Briefing Form
 The Search Enhancement Form (SEnF) is a one page sheet designed for two purposes: Guiding users through the design of an experiment and provide summaries of experiments that are easier searchable and screenable.
